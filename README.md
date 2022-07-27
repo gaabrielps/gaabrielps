@@ -1,4 +1,4 @@
-### Hi there 👋
+### Falaa meu consagrado👋
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabrielps&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -23,16 +23,13 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: araujolopesgabriel@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/gabriellopesaraujo/">
       <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
+
+    <a href = "https://www.instagram.com/gaabrielps/">
       <img width="25" src="instagram.png">
     </a>
 </div>
