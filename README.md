@@ -1,6 +1,6 @@
 ### Falaa meu consagrado👋
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=gaabrielps&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielps&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=gaabrielps&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielps&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> 
 <br>
 
 <div  align="center"> 
