@@ -1,10 +1,6 @@
 ### Falaa meu consagrado👋
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabrielps&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielps&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gaabrielps&show_icons=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabrielps&layout=compact&theme=chartreuse-dark&hide_border=true" /></a> 
 <br>
 
 <div  align="center"> 
@@ -29,7 +25,7 @@
     <a href = "https://www.linkedin.com/in/gabriellopesaraujo/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://wa.me/qr/ADFHKJHGP24PE1">
+    <a href = "https://www.instagram.com/gaabrielps/">
       <img width="25" src="🦆 icon _whatsapp_.svg">
     </a>
 </div>
