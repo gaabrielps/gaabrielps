@@ -28,9 +28,9 @@
     </a>
     <a href = "https://www.linkedin.com/in/gabriellopesaraujo/">
       <img width="25" src="linkedin.svg">
-
-    <a href = "https://www.instagram.com/gaabrielps/">
-      <img width="25" src="instagram.png">
+    </a>
+    <a href = "https://wa.me/qr/ADFHKJHGP24PE1">
+      <img width="25" src="🦆 icon _whatsapp_.svg">
     </a>
 </div>
   
